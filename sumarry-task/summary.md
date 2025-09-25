@@ -34,3 +34,25 @@ Description and behaviors:
 
 [01]
 <img src="./screenshots/dashboard.png" alt="Dashboard" />
+
+Description and behaviors:
+
+- [01] Just a JSON.
+
+# Project Screen
+
+[01]
+<img src="./screenshots/project.png" alt="Project" />
+[02]
+<img src="./screenshots/project-modal.png" alt="Project Modal" />
+[03]
+<img src="./screenshots/processing-video.png" alt="Processing a video" />
+[04]
+<img src="./screenshots/transcription-failed.png" alt="Processing a video" />
+
+Description and behaviors:
+
+- [01] Start with a white screen.
+- [02] When we click in the button Create Project, open a modal with a form to fill.
+- [03] When we upload a movie, the system process our video.
+- [04] When I click t otranscript, the app failed.
