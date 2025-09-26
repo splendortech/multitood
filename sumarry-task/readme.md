@@ -49,10 +49,21 @@ Description and behaviors:
 <img src="./screenshots/processing-video.png" alt="Processing a video" />
 [04]
 <img src="./screenshots/transcription-failed.png" alt="Processing a video" />
+[05]
+<img src="./screenshots/project-options.png" alt="Project Options" />
+[06]
+<img src="./screenshots/project-options.png" alt="Project Options" />
 
 Description and behaviors:
 
 - [01] Start with a white screen.
 - [02] When we click in the button Create Project, open a modal with a form to fill.
 - [03] When we upload a movie, the system process our video.
-- [04] When I click t otranscript, the app failed.
+  - Clicking in the play, the video run correctly.
+  - Adding tags is ok.
+- [04] When I click to transcript, the app `Transcription failed`.
+
+When the video is loaded:
+
+- [05] The options - Edit, Translation and Exports is not working. Review and Player Page, goes from another page with different video.
+- [06] The transcription is not working.
