@@ -92,21 +92,29 @@ Description and behaviors:
 [01]
 <img src="./screenshots/profile.png" alt="Profile" />
 [02]
-<img src="./screenshots/profile.png" alt="Profile Secutiry" />
+<img src="./screenshots/profile-security.png" alt="Profile Secutiry" />
 [03]
 <img src="./screenshots/billing.png" alt="Billing" />
+[04]
+<img src="./screenshots/explore-plans.png" alt="Explore Plans" />
 
 Description and behaviors:
 
 - [01] Page with form.
-- [02] Page secutiry informations.
-- [03] Page with Billing form.
+- [02] Page secutiry informations. Add teo factor and add passkey, is not working.
+- [03] Page with Billing form. Button `Purchase more credits`, is not working.
+  - Buttons `Manage Invoices`, `Cancel Subscripion` and `add payment methods` doesn't work.
+- [04] Page with static content, and buttons doesn't working.
 
 # Teams and Rules Screen
 
 [01]
 <img src="./screenshots/teams-and-rules.png" alt="Teams" />
+[02]
+<img src="./screenshots/teams-and-rules-options.png" alt="Teams Options" />
 
 Description and behaviors:
 
 - [01] Page with a list of users.
+- [02] The options - Edit, Translation and Exports is not working. Review and Player Page, goes from another page with different video.
+- [02] The transcription is not working.
