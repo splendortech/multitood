@@ -45,6 +45,10 @@ Description and behaviors:
 <img src="./screenshots/project.png" alt="Project" />
 [02]
 <img src="./screenshots/project-modal.png" alt="Project Modal" />
+[02.1]
+<img src="./screenshots/project-with-link.png" alt="Project Modal Link" />
+[02.2]
+<img src="./screenshots/project-with-link-2.png" alt="Project Link Uploading" />
 [03]
 <img src="./screenshots/processing-video.png" alt="Processing a video" />
 [04]
@@ -58,6 +62,8 @@ Description and behaviors:
 
 - [01] Start with a white screen.
 - [02] When we click in the button Create Project, open a modal with a form to fill.
+- [02.1] Form with fields to fill.
+- [02.2] Uploading do not working.
 - [03] When we upload a movie, the system process our video.
   - Clicking in the play, the video run correctly.
   - Adding tags is ok.
